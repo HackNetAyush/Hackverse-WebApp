@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "uploadedBy": "Virat Kohli",
+    "timestamp": "2024-06-24T14:30:00Z",
+    "postImage": "https://example.com/image1.jpg",
+    "postDesc": "A beautiful sunset at the beach.",
+    "likes": 12453,
+    "shares": 4563,
+    "comments": 8938,
+    "isLikedByYou": false,
+    "username": "viratkohli"
+  },
+  {
+    "id": 2,
+    "uploadedBy": "user456",
+    "timestamp": "2024-06-23T10:15:00Z",
+    "postImage": "https://example.com/image2.jpg",
+    "postDesc": "Delicious homemade pizza!",
+    "likes": 8765,
+    "shares": 2341,
+    "comments": 5423,
+    "isLikedByYou": false,
+    "username": "johncena"
+  },
+  {
+    "id": 3,
+    "uploadedBy": "user789",
+    "timestamp": "2024-06-22T08:45:00Z",
+    "postImage": "https://example.com/image3.jpg",
+    "postDesc": "Hiking adventure in the mountains.",
+    "likes": 6598,
+    "shares": 1897,
+    "comments": 3214,
+    "isLikedByYou": true,
+    "username": "ariana"
+  },
+  {
+    "id": 4,
+    "uploadedBy": "user321",
+    "timestamp": "2024-06-21T18:20:00Z",
+    "postImage": "https://example.com/image4.jpg",
+    "postDesc": "Concert night with friends!",
+    "likes": 14523,
+    "shares": 5678,
+    "comments": 9743,
+    "isLikedByYou": false,
+    "username": "arijit_official"
+  },
+  {
+    "id": 5,
+    "uploadedBy": "Garima Tiwari",
+    "timestamp": "2024-06-20T12:00:00Z",
+    "postImage": "https://example.com/image5.jpg",
+    "postDesc": "Exploring the city streets.",
+    "likes": 9821,
+    "shares": 3245,
+    "comments": 6532,
+    "isLikedByYou": false,
+    "username": "_organized_.chaos"
+  }
+]
